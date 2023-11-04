@@ -10,6 +10,7 @@
     <bean class="com.bnk.quoters.PostProxyInvokerContextListener"/>
     <bean class="com.bnk.quoters.ProfilingHandlerBeanPostProcessor"/>
     <bean class="com.bnk.quoters.InjectRandomIntAnnotationBeanPostProcessor"/>
+    <bean class="com.bnk.quoters.DeprecationHandlerBeanFactoryPostProcessor"/>
 
 <!--    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor"/>-->
     <bean class="com.bnk.quoters.TerminatorQuoter" id="terminatorQuoter">

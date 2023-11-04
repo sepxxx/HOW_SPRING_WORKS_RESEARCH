@@ -14,5 +14,6 @@ public class Main {
 ////            applicationContext.getBean(TerminatorQuoter.class).sayQuote();
 //            applicationContext.getBean(Quoter.class).sayQuote();
 //        }
+        applicationContext.getBean(Quoter.class).sayQuote();
     }
 }
