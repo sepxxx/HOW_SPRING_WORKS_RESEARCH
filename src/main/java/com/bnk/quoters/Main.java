@@ -1,4 +1,4 @@
-package com.bnk;
+package com.bnk.quoters;
 
 import com.bnk.quoters.Quoter;
 import com.bnk.quoters.TerminatorQuoter;
